@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/all_apps_button"
+    android:layout_alignParentEnd="true"
+    android:layout_centerVertical="true"
+    android:background="@drawable/half_round_corners"
+    android:padding="8dp"
+    android:layout_width="wrap_content"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:src="@drawable/ic_ri_apps_fill"
+        android:layout_height="wrap_content"
+        android:paddingEnd="4dp"
+        android:paddingStart="4dp"
+        />
+    <TextView
+        android:textAlignment="center"
+        android:id="@+id/all_apps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/all_apps"
+        />
+</LinearLayout>

@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_time_view.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\layout\\time_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_fragment.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\layout\\home_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_item.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\layout\\app_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ri_apps_fill.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\drawable\\ic_ri_apps_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\drawable\\ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_bold.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\font\\lato_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_search_bar.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\layout\\app_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_favourite_apps_modal.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\layout\\favourite_apps_modal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\font_lato.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\font\\lato.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_thin.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\font\\lato_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_apps_fragment.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\layout\\all_apps_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_on_black_24dp.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\drawable\\ic_location_on_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_full_round_corners.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\drawable\\full_round_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_white_24dp.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_wallpaper.png.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\drawable\\default_wallpaper.png"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_half_round_corners.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\drawable\\half_round_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_apps_button.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\layout\\all_apps_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bw_gradient.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\drawable\\bw_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_phone_black_24dp.xml.flat",
+        "source": "C:\\Users\\ify\\Downloads\\HLauncher\\app\\src\\main\\res\\drawable\\ic_local_phone_black_24dp.xml"
+    }
+]
